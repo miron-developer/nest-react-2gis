@@ -1,3 +1,5 @@
+# Searching Hotels using 2GIS API
+
 ## 🚀 Quick Start
 
 ### Prerequisites
